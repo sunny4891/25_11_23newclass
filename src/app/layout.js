@@ -20,7 +20,7 @@ export default function RootLayout({ children }) {
           <Header />
           {children}
           <Otherbody />
-          <button className="btn btn-sm btn-info">Testing</button>
+          <button className="btn btn-sm btn-info">Testing 123</button>
           <Footer />
         </div>
       </body>
